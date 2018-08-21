@@ -1,0 +1,11 @@
+#hp_twitter h2{background:url(img/title_twitter.gif) no-repeat right center;}
+#hp_contact h2{background:url(img/title_contact.gif) no-repeat right center;}
+#latest_posts h2{background:url(img/title_posts.gif) no-repeat right center;}
+#more_about h2{background:url(img/title_about.gif) no-repeat right center;}
+div#featured div#slide-holder div#slide-controls p#slide-nav a {background-image:url(img/slide-nav.gif);}
+
+.pm_tags{background:url(img/bt_tags.gif) no-repeat;padding-left:20px;}
+.pm_comments{background:url(img/bt_comments.gif) no-repeat;padding-left:20px;}
+.pm_edit{background:url(img/bt_edit.gif) no-repeat;padding-left:20px;}
+
+#sidebar ul li ul li {list-style-image:none;}

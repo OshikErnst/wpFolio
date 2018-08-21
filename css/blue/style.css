@@ -1,0 +1,17 @@
+#header{background:#C0C0C0 url(bg_header.gif) no-repeat;}
+#logo h1 a {background:transparent url(logo.gif) no-repeat scroll left top;}
+#search fieldset{background:url(bg_search.gif) no-repeat;}
+#navbar li a {color:#354A75;}
+#navbar li:hover li a, #navbar li.hover li a {color: #354A75;background:#91ADE7; }
+.entry ul li{list-style-image: url(bt_sidebar.png);}
+#sidebar ul li ul li{list-style-image: url(bt_sidebar.png);}
+
+#more_about h2,#latest_posts h2,#hp_contact h2,#hp_twitter h2,#post_meta h2,#portfolio_meta h2,#sidebar h2,#post_content h2,.post_content h2{color:#4B68A5;}
+.postmetadata li a,a:hover,a:visited{color:#4B68A5;}
+.work_t a,a:hover,a:visited{color:#4B68A5;}
+.entry h1,.entry h2,.entry h3,.entry h4,.entry h5,.entry h6{color:#4B68A5;}
+
+h2{color:#4B68A5;}
+h2 a{color:#4B68A5;text-decoration:none;font-size:22px;margin-left:-2px;}
+h2 a:hover{color:#166665;}
+h2 a:visited{color:#4B68A5;}
